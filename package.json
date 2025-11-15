@@ -2,7 +2,7 @@
   "name": "@vareon/arcana-cli-agent",
   "version": "1.0.0",
   "bin": {
-    "arcana-cli-agent": "./cli.js"
+    "arcana": "./cli.js"
   },
   "description": "",
   "main": "cli.js",
